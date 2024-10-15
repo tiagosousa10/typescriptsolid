@@ -1,0 +1,1 @@
+# typescriptsolid-teste
