@@ -23,7 +23,7 @@ export class ShoppingCart {
       .toFixed(2);
   }
 
-  totalWithDiscount(): number {
+  totalWithDiscount(): unknown {
     return this.discount.calculate(this.total());
   }
 
